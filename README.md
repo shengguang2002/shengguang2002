@@ -17,3 +17,10 @@
   </div>
 </body>
 </html>
+
+<style>
+  img {
+    width: 24px;
+    height: 24px;
+  }
+</style>
