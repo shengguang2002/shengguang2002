@@ -1,3 +1,9 @@
+<style>
+  img {
+    width: 10px;
+    height: 24px;
+  }
+</style>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,10 +23,3 @@
   </div>
 </body>
 </html>
-
-<style>
-  img {
-    width: 10px;
-    height: 24px;
-  }
-</style>
