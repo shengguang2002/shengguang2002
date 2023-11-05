@@ -11,9 +11,9 @@
   </div>
   <h1>Language and Tools</h1>
   <div>
-    <img src="cplusplus-color.svg" alt="C++" style="width:24px; height:24px;">
-    <img src="javascript-color.svg" alt="JavaScript" style="width:24px; height:24px;">
-    <img src="unrealengine-color.svg" alt="Unreal Engine" style="width:24px; height:24px;">
+    <img src="cplusplus-color.svg" alt="C++" style="width:60px; height:60px;">
+    <img src="javascript-color.svg" alt="JavaScript" style="width:60px; height:60px;">
+    <img src="unrealengine-color.svg" alt="Unreal Engine" style="width:60px; height:60px;">
   </div>
 </body>
 </html>
