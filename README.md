@@ -20,7 +20,7 @@
 
 <style>
   img {
-    width: 24px;
+    width: 10px;
     height: 24px;
   }
 </style>
