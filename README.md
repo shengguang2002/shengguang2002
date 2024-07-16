@@ -6,7 +6,7 @@
 <body>
     <h1>What about Me</h1>
     <p>Hi! My name is Hanyang Yu</p>
-    <p>My personal website： <a href = "https://shengguang2002.github.io">shengguang2002.github.io</a></p>
+    <p>My personal website： <a href = "https://hanyangyu.netlify.app">hanyangyu.netlify.app</a></p>
   <div>- 🔭 I’m Math majored in UW-seattle
   - 🌱 I’m currently learning Combinatorics
   - 📫 How to reach me: hyyu2002@uw.edu
