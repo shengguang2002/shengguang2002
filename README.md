@@ -9,7 +9,9 @@
     <p>My personal website： <a href = "https://hanyangyu.netlify.app">hanyangyu.netlify.app</a></p>
   <div>- 🔭 I’m Math majored in UW-seattle
   - 🌱 I’m currently learning Combinatorics
-  - 📫 How to reach me: hyyu2002@uw.edu&&yuhanyang888@outlook.com
+  </div>
+    <div>
+  - 📫 How to reach me: hyyu2002@uw.edu  &&  yuhanyang888@outlook.com
   </div>
   <h1>Language and Tools</h1>
   <div>
